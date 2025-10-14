@@ -1,6 +1,6 @@
 Program-1.a) Commands for basic user input/output  
 b)Basic Data Types and Data Manipulation Functions 
-name <- readline(prompt = "Enter your name: ") 
+code -  name <- readline(prompt = "Enter your name: ") 
 print(paste("Hello,", name)) 
 x <- 5 
 y <- 3.14 
@@ -42,7 +42,7 @@ a b
 3 3 6 
 Program-2) Introduction to basic commands Continued: a) Conditional Statements b) 
 Loops 
-x=7 
+code - x=7 
 if (x > 3) { 
 print("x is greater than 3") 
 } 
